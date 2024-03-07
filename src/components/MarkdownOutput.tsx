@@ -7,7 +7,8 @@ const OutputContainer = styled.div`
   width: 50%;
   max-width: 767px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  text-decoration: none;
   border: 2px solid white;
   height: 615px;
   padding: 20px;
